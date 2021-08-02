@@ -1,0 +1,7 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP G5LE-1A4 DC12
+D G5LE-1A4 DC12
+F https://omronfs.omron.com/en_US/ecb/products/pdf/en-g5le.pdf
+$ENDCMP
+# end doc library

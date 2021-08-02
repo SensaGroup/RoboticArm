@@ -1,0 +1,32 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model DMP3007SFG-7
+#/1087270/202190/2.49/9/4/MOSFET (P-Channel)
+DEF DMP3007SFG-7 Q 0 30 Y Y 1 F N
+F0 "Q" 850 300 50 H V L CNN
+F1 "DMP3007SFG-7" 850 200 50 H V L CNN
+F2 "DMP3007SFG7" 850 100 50 H I L CNN
+F3 "https://www.diodes.com/assets/Datasheets/DMP3007SFG.pdf" 850 0 50 H I L CNN
+F4 "DMP3007SFG-7 P-Channel MOSFET, 70 A, 30 V DMP, 8-Pin PowerDI3333 Diodes Inc" 850 -100 50 H I L CNN "Description"
+F5 "0.8" 850 -200 50 H I L CNN "Height"
+F6 "Diodes Inc." 850 -300 50 H I L CNN "Manufacturer_Name"
+F7 "DMP3007SFG-7" 850 -400 50 H I L CNN "Manufacturer_Part_Number"
+F8 "621-DMP3007SFG-7" 850 -500 50 H I L CNN "Mouser Part Number"
+F9 "https://www.mouser.co.uk/ProductDetail/Diodes-Incorporated/DMP3007SFG-7?qs=lqAf%2FiVYw9hAj0RBtokBGA%3D%3D" 850 -600 50 H I L CNN "Mouser Price/Stock"
+F10 "DMP3007SFG-7" 850 -700 50 H I L CNN "Arrow Part Number"
+F11 "https://www.arrow.com/en/products/dmp3007sfg-7/diodes-incorporated" 850 -800 50 H I L CNN "Arrow Price/Stock"
+DRAW
+X S_1 1 0 0 200 R 50 50 0 0 P
+X S_2 2 0 -100 200 R 50 50 0 0 P
+X S_3 3 0 -200 200 R 50 50 0 0 P
+X G 4 0 -300 200 R 50 50 0 0 P
+X D_1 5 0 -400 200 R 50 50 0 0 P
+X D_2 6 1000 0 200 L 50 50 0 0 P
+X D_3 7 1000 -100 200 L 50 50 0 0 P
+X D_4 8 1000 -200 200 L 50 50 0 0 P
+X D_5 9 1000 -300 200 L 50 50 0 0 P
+P 5 0 1 6 200 100 800 100 800 -500 200 -500 200 100 N
+ENDDRAW
+ENDDEF
+#
+#End Library

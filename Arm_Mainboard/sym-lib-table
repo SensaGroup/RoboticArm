@@ -1,0 +1,9 @@
+(sym_lib_table
+  (lib (name BTA16-600CW3G)(type Legacy)(uri ${KIPRJMOD}/AddOns/Symbol/BTA16-600CW3G.lib)(options "")(descr ""))
+  (lib (name MAX6675ISA_)(type Legacy)(uri ${KIPRJMOD}/AddOns/Symbol/MAX6675ISA_.lib)(options "")(descr ""))
+  (lib (name MBS6_RCG)(type Legacy)(uri ${KIPRJMOD}/AddOns/Symbol/MBS6_RCG.lib)(options "")(descr ""))
+  (lib (name pecka)(type Legacy)(uri ${KIPRJMOD}/AddOns/Symbol/pecka.lib)(options "")(descr ""))
+  (lib (name S8411-45R)(type Legacy)(uri ${KIPRJMOD}/AddOns/Symbol/S8411-45R.lib)(options "")(descr ""))
+  (lib (name AGQ200A24Z)(type Legacy)(uri ${KIPRJMOD}/AddOns/Symbol/AGQ200A24Z.lib)(options "")(descr ""))
+  (lib (name 105450-0101)(type Legacy)(uri ${KIPRJMOD}/AddOns/Symbol/105450-0101.lib)(options "")(descr ""))
+)

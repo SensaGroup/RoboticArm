@@ -1,0 +1,55 @@
+EESchema-LIBRARY Version 2.4
+#encoding utf-8
+#
+# Omron G5LE-1A4 DC12
+#
+DEF G5LE-1A4_DC12 K 0 40 Y Y 1 L N
+F0 "K" 0 200 50 H V L CNN 
+F1 "G5LE-1A4 DC12" 0 300 50 H V L CNN 
+F2 "Omron-G5LE-1A4_DC12-0-0-*" 0 400 50 H I L CNN 
+F3 "https://omronfs.omron.com/en_US/ecb/products/pdf/en-g5le.pdf" 0 500 50 H I L CNN 
+F4 "+85°C" 0 600 50 H I L CNN "ambient temperature range high"
+F5 "-25°C" 0 700 50 H I L CNN "ambient temperature range low"
+F6 "No" 0 800 50 H I L CNN "automotive"
+F7 "Relay" 0 900 50 H I L CNN "category"
+F8 "33.3mA" 0 1000 50 H I L CNN "coil current"
+F9 "400mW" 0 1100 50 H I L CNN "coil power"
+F10 "360Ω" 0 1200 50 H I L CNN "coil resistance"
+F11 "Non-Latching" 0 1300 50 H I L CNN "coil type"
+F12 "12V" 0 1400 50 H I L CNN "coil voltage"
+F13 "10A" 0 1500 50 H I L CNN "current rating"
+F14 "Electromechanical" 0 1600 50 H I L CNN "device class L1"
+F15 "Relays" 0 1700 50 H I L CNN "device class L2"
+F16 "Power Relays" 0 1800 50 H I L CNN "device class L3"
+F17 "RELAY GEN PURPOSE SPST 10A 12V" 0 1900 50 H I L CNN "digikey description"
+F18 "Z2352-ND" 0 2000 50 H I L CNN "digikey part number"
+F19 "19mm" 0 2100 50 H I L CNN "height"
+F20 "Yes" 0 2200 50 H I L CNN "lead free"
+F21 "a630b306ceab2ea8" 0 2300 50 H I L CNN "library id"
+F22 "Omron" 0 2400 50 H I L CNN "manufacturer"
+F23 "General Purpose Relays PowerPCBRelay 12VDC SPST-NO Sealed VDE" 0 2500 50 H I L CNN "mouser description"
+F24 "653-G5LE-1A4-DC12" 0 2600 50 H I L CNN "mouser part number"
+F25 "1" 0 2700 50 H I L CNN "number of contacts"
+F26 "PTH_RELAY_22MM5_16MM5" 0 2800 50 H I L CNN "package"
+F27 "Yes" 0 2900 50 H I L CNN "rohs"
+F28 "0.5mm" 0 3000 50 H I L CNN "standoff height"
+F29 "10A" 0 3100 50 H I L CNN "switching current"
+F30 "+85°C" 0 3200 50 H I L CNN "temperature range high"
+F31 "-25°C" 0 3300 50 H I L CNN "temperature range low"
+F32 "SPST-NO" 0 3400 50 H I L CNN "throw configuration"
+DRAW
+X 5 5 700 -200 150 L 40 0 1 1 P 
+X 2 2 100 -200 150 R 40 0 1 1 P 
+X 3 3 700 0 200 L 40 0 1 1 P 
+X 1 1 100 0 200 R 40 0 1 1 P 
+A 500 -200 50 0 1799 1 1 0 N 450 -200 550 -200
+A 400 -200 50 0 1799 1 1 0 N 350 -200 450 -200
+A 300 -200 50 0 1799 1 1 0 N 250 -200 350 -200
+P 2 1 1 0 530 -100 270 -100 N
+C 470 0 20 1 1 0 N
+C 330 0 20 1 1 0 N
+P 2 1 1 0 350 10 470 60 N
+ENDDRAW
+ENDDEF
+#
+# End Library

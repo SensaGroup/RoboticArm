@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP DMP3007SFG-7
+D DMP3007SFG-7 P-Channel MOSFET, 70 A, 30 V DMP, 8-Pin PowerDI3333 Diodes Inc
+K
+F https://www.diodes.com/assets/Datasheets/DMP3007SFG.pdf
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,42 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#(c) SnapEDA 2016 (snapeda.com)
+#This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA) with Design Exception 1.0
+#
+# BTA16-600CW3G
+#
+DEF BTA16-600CW3G D 0 40 N N 1 L N
+F0 "D" 125 100 50 H V L BNN
+F1 "BTA16-600CW3G" 150 -125 50 H V L BNN
+F2 "TO254P1028X482X1968-3" 0 0 50 H I L BNN
+F3 "BTA16-600CW3G" 0 0 50 H I L BNN
+F4 "None" 0 0 50 H I L BNN
+F5 "TO-220 Littelfuse" 0 0 50 H I L BNN
+F6 "Littelfuse Inc." 0 0 50 H I L BNN
+F7 "Thyristor TRIAC 600V 170A 3-Pin_3+Tab_ TO-220AB Tube" 0 0 50 H I L BNN
+F8 "Unavailable" 0 0 50 H I L BNN
+DRAW
+P 2 0 0 10 -60 -100 30 -40 N
+P 2 0 0 10 30 -40 -60 10 N
+P 2 0 0 10 -60 10 -60 0 N
+P 2 0 0 10 -60 0 -60 -100 N
+P 2 0 0 10 -60 40 -60 10 N
+P 2 0 0 10 30 -10 -60 40 N
+P 2 0 0 10 -60 40 30 100 N
+P 2 0 0 10 30 100 30 0 N
+P 2 0 0 10 30 0 30 -10 N
+P 2 0 0 10 -60 40 -60 100 N
+P 2 0 0 6 30 -75 100 -150 N
+P 2 0 0 10 30 -40 30 -75 N
+P 2 0 0 10 30 -75 30 -100 N
+P 2 0 0 10 30 -40 30 -10 N
+P 2 0 0 6 100 0 30 0 N
+P 2 0 0 6 -60 0 -100 0 N
+P 2 0 0 6 100 -200 100 -150 N
+X MT1 1 200 0 100 L 40 40 0 0 P 
+X MT2 2 -200 0 100 R 40 40 0 0 P 
+X G 3 100 -200 0 U 40 40 0 0 P 
+ENDDRAW
+ENDDEF
+#
+# End Library
