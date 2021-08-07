@@ -12,4 +12,4 @@ The PCB interfaces thwe microcontroller with 5 stepper drivers and 5 encoders.
 ~~~~~~
 
 ## Pictures
-![Top_view](~~~~)
+![Top_view](https://github.com/SensaGroup/RoboticArm/blob/main/Outputs/Pictures/profile1.jpg)
