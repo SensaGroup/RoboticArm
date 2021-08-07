@@ -6,4 +6,6 @@
   (lib (name S8411-45R)(type Legacy)(uri ${KIPRJMOD}/AddOns/Symbol/S8411-45R.lib)(options "")(descr ""))
   (lib (name AGQ200A24Z)(type Legacy)(uri ${KIPRJMOD}/AddOns/Symbol/AGQ200A24Z.lib)(options "")(descr ""))
   (lib (name 105450-0101)(type Legacy)(uri ${KIPRJMOD}/AddOns/Symbol/105450-0101.lib)(options "")(descr ""))
+  (lib (name DS04-254-2-03BK-SMT)(type Legacy)(uri ${KIPRJMOD}/AddOns/Symbol/DS04-254-2-03BK-SMT.lib)(options "")(descr ""))
+  (lib (name DS04-254-2-04BK-SMT)(type Legacy)(uri ${KIPRJMOD}/AddOns/Symbol/DS04-254-2-04BK-SMT.lib)(options "")(descr ""))
 )

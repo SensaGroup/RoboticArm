@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name ArmFootprints)(type KiCad)(uri ${KIPRJMOD}/AddOns/ArmFootprints.pretty)(options "")(descr ""))
+  (lib (name logos)(type KiCad)(uri ${KIPRJMOD}/AddOns/logos.pretty)(options "")(descr ""))
+)
