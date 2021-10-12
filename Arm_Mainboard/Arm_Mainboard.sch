@@ -1072,5 +1072,5 @@ E1B
 Text Label 6400 4080 0    50   ~ 0
 E2A
 Text Label 6400 4180 0    50   ~ 0
-E2A
+E2B
 $EndSCHEMATC
